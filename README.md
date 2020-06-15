@@ -1,17 +1,34 @@
-# SNLP_tasks
+#  SNLP_tasks
 Basic concepts related to statistical natural language processing.
 
-# NLP hands-on 1
-Exploring brown and inaugural corpus,finding frequencey distribution of words in trump speech in 2017 election etc.
+## NLP hands-on 1
+   * Brown Corpus
+   * Inaugural Corpus
+   * Frequency Distribution 
+   * Homework
 
-# NLP hands-on 2
-Conecpt of stemming and lemmatization using PorterStemmer,SnowballStemmer,WordNetLemmatizer etc ,Chinese Segmentation using JIEBA,text processing Pipeline for a sentence and one space exploration paragraph.
+## NLP hands-on 2
+   * Stemming (PorterStemmer, LancasterStemmer, RegexpStemmer, SnowballStemmer)
+   * Hindi Corpus
+   * Lemmatizer(WordNetLemmatizer)
+   * Chinese Segmentation using JIEBA
+   * Basic text processing Pipeline for a sentence and one space exploration paragraph.
 
-# POS tagged
-Taking nltk library to study my mother tongue which is marathi and tagging pos to the sentences for 'marathi.pos' available in nltk library.
 
-# SVM classification and vector transformation
-classification of SVM implemantation and finding cosine similarity between two sentences.
+## Marathi tokenizer (nltk library)
+   * Marathi Corpus
+   * Marathi POS Tagging
 
-# FSA for adjectives in Marathi language
-Three types of adjectives with examples are listed out and FSA for acceptance is drawn.
+
+## Lexicon Vectorizer
+   * Tokenizer
+   * Stemming and lemmatization
+   * Finding StopWords and Removal
+   * POS Tagging
+   * Lexicon
+   * SVM classifier
+   * finding cosine similarity for two sentences.
+
+## FSA for adjectives in Marathi language
+   * List of three types of adjectives with examples
+   * FSA for acceptance 
