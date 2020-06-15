@@ -9,7 +9,6 @@ Basic concepts related to statistical natural language processing.
 
 ## NLP hands-on 2
    * Stemming (PorterStemmer, LancasterStemmer, RegexpStemmer, SnowballStemmer)
-   * Hindi Corpus
    * Lemmatizer(WordNetLemmatizer)
    * Chinese Segmentation using JIEBA
    * Basic text processing Pipeline for a sentence and one space exploration paragraph.
