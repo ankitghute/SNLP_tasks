@@ -1,4 +1,4 @@
-#CSE6060_SNLP
+# CSE6060_SNLP
 #  SNLP_tasks
 Basic concepts related to statistical natural language processing.
 
