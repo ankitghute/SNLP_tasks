@@ -31,3 +31,31 @@ Basic concepts related to statistical natural language processing.
 ## FSA for adjectives in Marathi language
    * List of three types of adjectives with examples
    * FSA for acceptance 
+   
+##  inltk Functions on regional language (Marathi)
+   * Tokenize the input text
+   * Get similar sentences to the given sentence
+   * Identifying language of given sentence
+   * predicting relatable next words for given sentence
+   * similarity of sentences using cosine similarity
+   
+## Chunking
+   * sentence parsing and chunking
+   * Lor1 and Lor2 sample parsing and chunking
+
+## Sentiment Analysis using Logistic regression on Imdb dataset
+    * Importing dataset 
+    * document transformation
+    * Term Frequency and Inverse Document Frequency
+    * Vectorizing the Dataset
+    * Document classification using Logistic Regression
+    * Model Evaluation
+    
+## nltk functions for custom data in hindi and marathi language
+    * Hindi language
+    * Marathi language
+    
+## Research paper of nlp works in marathi language
+    * ISSUES AND CHALLENGES IN MARATHI NAMED ENTITY RECOGNITION
+    * Automatic Text Categorization of Marathi Language Documents 
+    * System for marathi news clustering
