@@ -52,7 +52,14 @@ Basic concepts related to statistical natural language processing.
     * Model Evaluation
     
 ## nltk functions for custom data in hindi and marathi language
-    * Hindi language
-    * Marathi language
+    * for Hindi language
+    * for Marathi language
     
 ## Web Scrapping and preprocessing
+    * pos tagging
+    * Scrapping the text from the web
+    * Extracting html from object
+    * Preprocessing of web content
+    * Tokenization
+    * Removing stop words
+    * Lemmatization
