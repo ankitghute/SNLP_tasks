@@ -55,7 +55,4 @@ Basic concepts related to statistical natural language processing.
     * Hindi language
     * Marathi language
     
-## Research paper of nlp works in marathi language
-    * ISSUES AND CHALLENGES IN MARATHI NAMED ENTITY RECOGNITION
-    * Automatic Text Categorization of Marathi Language Documents 
-    * System for marathi news clustering
+
