@@ -34,11 +34,13 @@ Basic concepts related to statistical natural language processing.
     * FSA for acceptance 
    
 ##  inltk Functions on regional language (Marathi)
+    * Get embedding for input words
     * Tokenize the input text
     * Get similar sentences to the given sentence
     * Identifying language of given sentence
     * predicting relatable next words for given sentence
     * similarity of sentences using cosine similarity
+    * Get Sentence Encoding
    
 ## Chunking
     * sentence parsing and chunking
